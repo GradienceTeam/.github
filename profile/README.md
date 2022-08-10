@@ -1,7 +1,4 @@
-<img align="left" alt="Project logo" src="https://github.com/AdwCustomizerTeam/AdwCustomizer/blob/main/data/icons/hicolor/scalable/apps/com.github.AdwCustomizerTeam.AdwCustomizer.svg" />
-
-# Adwaita Manager
-Change the look of Adwaita, with ease
+![Cover](https://github.com/AdwCustomizerTeam/Design/blob/main/Covers/cover.png)
 
 ![Screenshot of interface with Adwaita light theme](https://github.com/AdwCustomizerTeam/Design/blob/main/Screenshots/main_screenshot.png)
 
