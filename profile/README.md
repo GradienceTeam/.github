@@ -1,11 +1,13 @@
 <a href="https://github.com/AdwCustomizerTeam/AdwCustomizer">
 
-![Cover](https://github.com/AdwCustomizerTeam/Design/blob/main/Covers/cover.png)
+[![Cover](https://github.com/AdwCustomizerTeam/Design/blob/main/Covers/cover.png)](https://github.com/AdwCustomizerTeam/AdwCustomizer)
 
 ![Screenshot of interface with Adwaita light theme](https://github.com/AdwCustomizerTeam/Design/blob/main/Screenshots/main_screenshot.png)
 
 </a>
 
+[![Build flatpak](https://github.com/AdwCustomizerTeam/AdwCustomizer/actions/workflows/flatpak.yml/badge.svg)](https://github.com/AdwCustomizerTeam/AdwCustomizer/actions/workflows/flatpak.yml)
+[![Build flatpak nightly](https://github.com/AdwCustomizerTeam/AdwCustomizer/actions/workflows/flatpak-nightly.yml/badge.svg)](https://github.com/AdwCustomizerTeam/AdwCustomizer/actions/workflows/flatpak-nightly.yml)
 [![Chat on Matrix](https://matrix.to/img/matrix-badge.svg)](https://matrix.to/#/#AdwCustomizer:matrix.org)
 
 Gradience, originally Adwaita Manager (AdwCustomizer) is a tool for customizing Libadwaita applications and the adw-gtk3 theme.
@@ -15,7 +17,6 @@ Gradience, originally Adwaita Manager (AdwCustomizer) is a tool for customizing 
   
   <a href="https://github.com/AdwCustomizerTeam/AdwCustomizer">
 
-  
   ![Screenshot of interface with a customized theme](https://github.com/AdwCustomizerTeam/Design/blob/main/Screenshots/customized_screenshot.png)
   
   ![Screenshot of proof that this actually works](https://github.com/AdwCustomizerTeam/Design/blob/main/Screenshots/proof_of_work_screenshot.png)
