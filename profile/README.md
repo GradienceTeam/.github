@@ -1,6 +1,6 @@
 <a href="https://github.com/AdwCustomizerTeam/AdwCustomizer">
 
-[![Cover](https://github.com/AdwCustomizerTeam/Design/blob/main/Covers/cover.png)](https://github.com/AdwCustomizerTeam/AdwCustomizer)
+[![Cover](https://github.com/AdwCustomizerTeam/Design/blob/main/Covers/cover.svg)](https://github.com/AdwCustomizerTeam/AdwCustomizer)
 
 ![Screenshot of interface with Adwaita light theme](https://github.com/AdwCustomizerTeam/Design/blob/main/Screenshots/main_screenshot.png)
 
