@@ -1,18 +1,9 @@
-on: [push, pull_request]
+on: [push]
 name: Toot, together!
 jobs:
-  preview:
-    name: Preview
-    runs-on: ubuntu-latest
-    if: github.event_name == 'pull_request'
-    steps:
-      - uses: joschi/toot-together@v3
-        env:
-          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
   toot:
     name: Toot
     runs-on: ubuntu-latest
-    if: github.event_name == 'push' && github.ref == 'refs/heads/master'
     steps:
       - name: checkout master
         uses: actions/checkout@v2
