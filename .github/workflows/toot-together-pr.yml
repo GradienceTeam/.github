@@ -1,0 +1,10 @@
+on: [pull_request]
+name: Toot, together!
+jobs:
+  preview:
+    name: Preview
+    runs-on: ubuntu-latest
+    steps:
+      - uses: joschi/toot-together@v3
+        env:
+          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
