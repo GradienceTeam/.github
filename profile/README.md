@@ -11,4 +11,6 @@
     <a href="https://matrix.to/#/#Gradience:matrix.org">Matrix</a>
   </p>
   </h4>
+  
+##### [usegradience.github.io](https://usegradience.github.io) and [gradienceisahack.github.io](https://gradienceisahack.github.io)
 </div>
