@@ -1,9 +1,7 @@
 <div align="center">
-<a href="https://github.com/GradienceTeam/Gradience">
-  <h1>
-    <img src="https://github.com/GradienceTeam/Design/blob/main/Covers/cover.png"/>
-  </h1>
-</a>
+  <a href="https://github.com/GradienceTeam/Gradience">
+    <img src="https://github.com/GradienceTeam/Design/blob/main/Covers/cover.png" alt="Cover">
+  </a>
 <h4>
   <p>
     <a href="https://gradienceteam.github.io/">Website</a> •
