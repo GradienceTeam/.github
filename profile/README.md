@@ -10,5 +10,5 @@
   </p>
   </h4>
   
-##### [usegradience.github.io](https://usegradience.github.io) and [gradienceisahack.github.io](https://gradienceisahack.github.io)
+##### [gradienceteam.github.io](https://gradienceteam.github.io)
 </div>
