@@ -9,6 +9,4 @@
     <a href="https://matrix.to/#/#Gradience:matrix.org">Matrix</a>
   </p>
   </h4>
-  
-##### [gradienceteam.github.io](https://gradienceteam.github.io)
 </div>
