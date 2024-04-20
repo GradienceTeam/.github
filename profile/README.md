@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> Gradience is looking for a maintainer(s)! if you know Python and GTK4/Libadwaita and willing to work on it, chip in on [Matrix](https://matrix.to/#/#Gradience:matrix.org) and [Discord](https://discord.com/invite/4njFDtfGEZ).
+>
+
 <div align="center">
   <a href="https://github.com/GradienceTeam/Gradience">
     <img src="https://github.com/GradienceTeam/Design/blob/main/Covers/cover.png" alt="Cover">
